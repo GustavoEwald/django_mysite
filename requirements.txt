@@ -1,0 +1,12 @@
+asgiref
+colorama
+Django
+factory_boy
+Faker
+iniconfig
+packaging
+pluggy
+pytest
+pytest-django
+sqlparse
+tzdata

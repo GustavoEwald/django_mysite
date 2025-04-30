@@ -135,7 +135,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
 virtual
+=======
+virtual/
+>>>>>>> a5e7667de9fa8c09a02c17b29ac7f2882a4dbdf3
 
 # Spyder project settings
 .spyderproject
